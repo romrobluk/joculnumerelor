@@ -1,0 +1,91 @@
+.body1 {
+    background-color: rgb(167, 113, 192);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
+.title {
+    font-family: 'Protest Strike', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+}
+
+.regulament {
+    font-family: 'Protest Strike', sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.start_button {
+    display: block;
+    width: 175px;
+    border-radius: 10px;
+    border: 100px ,black;
+    background-color: #04AA6D;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    left: 860px;
+}
+
+.start_button:hover {
+    display: block;
+    width: 175px;
+    border-radius: 10px;
+    border: 100px ,rgb(255, 255, 255);
+    background-color: #000000;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 860px;
+}
+
+.tee {
+    font-family: 'Protest Strike', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+.start_button2 {
+    display: block;
+    width: 175px;
+    border-radius: 10px;
+    border: 100px ,black;
+    background-color: #5eb1e9;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    left: 860px;
+}
+
+.start_button2:hover {
+    display: block;
+    width: 175px;
+    border-radius: 10px;
+    border: 100px ,rgb(255, 255, 255);
+    background-color: #000000;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    position: absolute;
+    left: 860px;
+}
+
+.castig {
+    background-color: rgb(9, 145, 77);
+}
+
+.pierdere {
+    background-color: rgb(199, 0, 0);
+}
